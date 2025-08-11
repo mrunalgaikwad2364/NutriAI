@@ -61,9 +61,13 @@ NutriAI generates **culturally relevant Indian meal plans**, calculates nutritio
 ---
 ## 📈 Future Improvements
 1.Add web & mobile app interface
+
 2.Multi-language support (Hindi, Marathi, etc.)
+
 3.Save & load user profiles
+
 4.Recipe recommendations with nutritional breakdown
+
 5.Integration with fitness tracker
 
 ---
